@@ -1,1 +1,8 @@
-sdfsdfsdfdsfsdfsdfsdfdsfsdf
+sdfsdfsdfdsfsdfsdfsdfdsfsdfsdfsf
+
+[keyboxd]
+---------
+sec   ed25519/396464244934935A 2024-10-09 [SC]
+      F5938904DEF09D849384F38724006655474495D973E
+uid                 [ultimate] username <82341064+username@users.noreply.github.com>
+ssb   cv25519/948373D7B485749E 2024-10-09 [E]
